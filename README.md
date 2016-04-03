@@ -11,95 +11,17 @@ come great content for learning. Below is a list of each of the Nanodegrees
 currently offered and links to the individual courses in their curriculums. This
 page will be updated as they add more courses and Nanodegrees.
 
-## Contents
+## Table of Contents
 
-  * **[Front-End Web Developer Nanodegree]()**
-    1.  [Intro to HTML and CSS]()
-    2.  [Responsive Web Design Fundamentals]()
-    3.  [Responsive Images]()
-    4.  [JavaScript Basics]()
-    5.  [Intro to jQuery]()
-    6.  [Object-Oriented JavaScript]()
-    7.  [HTML5 Canvas]()
-    8.  [Website Performance Optimization]()
-    9.  [Browser Rendering Optimization]()
-    10. [Intro to AJAX]()
-    11. [JavaScript Design Patterns]()
-    12. [JavaScript Testing]()
-
-
-  * **[Senior Web Developer Nanodegree]()**
-    1.  [Building High Conversion Web Forms]()
-    2.  [Web Tooling & Automation]()
-    3.  [JavaScript Promises]()
-    4.  [Offline Web Applications]()
-    5.  [Web Accessibility]()
-    6.  [Component-Oriented Development]()
-    7.  [Front-End Frameworks]()
-    8.  [Client-Server Communications]()
-
-
-  * **[Full Stack Web Developer Nanodegree]()**
-    1.  [Programming Foundations with Python]()
-    2.  [Intro to Relational Databases]()
-    3.  [Full Stack Foundations]()
-    4.  [Authentication & Authorization: OAuth]()
-    5.  [Developing Scalable Apps in Python]()
-    6.  [Linux Command Line Basics]()
-    7.  [Configuring Linux Web Servers]()
-
-
-  * **[Data Analyst Nanodegree]()**
-    1.  [Intro to Descriptive Statistics]()
-    2.  [Intro to Inferential Statistics]()
-    3.  [Intro to Descriptive Statistics]()
-    4.  [Intro to Data Analysis]()
-    5.  [Data Wrangling with MongoDB]()
-    6.  [Data Analysis with R]()
-    7.  [Intro to Machine Learning]()
-    8.  [Data Visualization and D3.js]()
-    9.  [Intro to HTML and CSS]()
-    10. [JavaScript Basics]()
-    11. [A/B Testing]()
-
-
-  * **[Machine Learning Engineer Nanodegree]()**
-    1.  [Course Readiness Assessment]()
-    2.  [Intro to Descriptive Statistics]()
-    3.  [Intro to Data Science]()
-    4.  [Reinforcement Learning]()
-    5.  [Deep Learning]()
-    6.  [Artificial Intelligence for Robotics]()
-    7.  [Machine Learning for Trading]()
-
-
-  * **[Tech Entrepreneur Nanodegree]()**
-    1.  [Product Design]()
-    2.  [App Monetization]()
-    3.  [Rapid Prototyping]()
-    4.  [App Marketing]()
-
-
-  * **[Android Developer Nanodegree]()**
-    1.  [Developing Android Apps]()
-    2.  [Advanced Android App Development]()
-    3.  [Gradle for Android and Java]()
-    4.  [Material Design for Android Developers]()
-    5.  [Android Wear Development]()
-
-
-  * **[iOS Developer Nanodegree]()**
-    1.  [Intro to iOS App Development with Swift]()
-    2.  [UIKit Fundamentals]()
-    3.  [iOS Networking with Swift]()
-    4.  [iOS Persistence and Core Data]()
-    5.  [How to Make an iOS App]()
-
-
-  * **[Mobile Game Developer Nanodegree]()**
-    1.  [2D Game Development with libGDX]()
-    2.  [How to Make a Platformer Using libGDX]()
-    3.  [Engagement & Monetization | Mobile Games]()
+  * [Front-End Web Developer Nanodegree]()
+  * [Senior Web Developer Nanodegree]()
+  * [Full Stack Web Developer Nanodegree]()
+  * [Data Analyst Nanodegree]()
+  * [Machine Learning Engineer Nanodegree]()
+  * [Tech Entrepreneur Nanodegree]()
+  * [Android Developer Nanodegree]()
+  * [iOS Developer Nanodegree]()
+  * [Mobile Game Developer Nanodegree]()
 
 
 ---
