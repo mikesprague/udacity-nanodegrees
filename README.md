@@ -1,0 +1,292 @@
+# Udacity Nanodegrees
+
+[Ucacity](https://www.udacity.com/) offers some great courses in their
+[Nanodegree](https://www.udacity.com/nanodegree) programs. If you don't have
+the money and/or just don't want to pay for them (and don't mind not getting
+the project reviews, additional student and career guidance, and their job
+guarantee), you can take each of the courses for free.
+
+While it's no substitute for the actual Nanodegree programs, it still provides
+come great content for learning. Below is a list of each of the Nanodegrees
+currently offered and links to the individual courses in their curriculums. This
+page will be updated as they add more courses and Nanodegrees.
+
+## Contents
+
+  * **[Front-End Web Developer Nanodegree]()**
+    1.  [Intro to HTML and CSS]()
+    2.  [Responsive Web Design Fundamentals]()
+    3.  [Responsive Images]()
+    4.  [JavaScript Basics]()
+    5.  [Intro to jQuery]()
+    6.  [Object-Oriented JavaScript]()
+    7.  [HTML5 Canvas]()
+    8.  [Website Performance Optimization]()
+    9.  [Browser Rendering Optimization]()
+    10. [Intro to AJAX]()
+    11. [JavaScript Design Patterns]()
+    12. [JavaScript Testing]()
+
+
+  * **[Senior Web Developer Nanodegree]()**
+    1.  [Building High Conversion Web Forms]()
+    2.  [Web Tooling & Automation]()
+    3.  [JavaScript Promises]()
+    4.  [Offline Web Applications]()
+    5.  [Web Accessibility]()
+    6.  [Component-Oriented Development]()
+    7.  [Front-End Frameworks]()
+    8.  [Client-Server Communications]()
+
+
+  * **[Full Stack Web Developer Nanodegree]()**
+    1.  [Programming Foundations with Python]()
+    2.  [Intro to Relational Databases]()
+    3.  [Full Stack Foundations]()
+    4.  [Authentication & Authorization: OAuth]()
+    5.  [Developing Scalable Apps in Python]()
+    6.  [Linux Command Line Basics]()
+    7.  [Configuring Linux Web Servers]()
+
+
+  * **[Data Analyst Nanodegree]()**
+    1.  [Intro to Descriptive Statistics]()
+    2.  [Intro to Inferential Statistics]()
+    3.  [Intro to Descriptive Statistics]()
+    4.  [Intro to Data Analysis]()
+    5.  [Data Wrangling with MongoDB]()
+    6.  [Data Analysis with R]()
+    7.  [Intro to Machine Learning]()
+    8.  [Data Visualization and D3.js]()
+    9.  [Intro to HTML and CSS]()
+    10. [JavaScript Basics]()
+    11. [A/B Testing]()
+
+
+  * **[Machine Learning Engineer Nanodegree]()**
+    1.  [Course Readiness Assessment]()
+    2.  [Intro to Descriptive Statistics]()
+    3.  [Intro to Data Science]()
+    4.  [Reinforcement Learning]()
+    5.  [Deep Learning]()
+    6.  [Artificial Intelligence for Robotics]()
+    7.  [Machine Learning for Trading]()
+
+
+  * **[Tech Entrepreneur Nanodegree]()**
+    1.  [Product Design]()
+    2.  [App Monetization]()
+    3.  [Rapid Prototyping]()
+    4.  [App Marketing]()
+
+
+  * **[Android Developer Nanodegree]()**
+    1.  [Developing Android Apps]()
+    2.  [Advanced Android App Development]()
+    3.  [Gradle for Android and Java]()
+    4.  [Material Design for Android Developers]()
+    5.  [Android Wear Development]()
+
+
+  * **[iOS Developer Nanodegree]()**
+    1.  [Intro to iOS App Development with Swift]()
+    2.  [UIKit Fundamentals]()
+    3.  [iOS Networking with Swift]()
+    4.  [iOS Persistence and Core Data]()
+    5.  [How to Make an iOS App]()
+
+
+  * **[Mobile Game Developer Nanodegree]()**
+    1.  [2D Game Development with libGDX]()
+    2.  [How to Make a Platformer Using libGDX]()
+    3.  [Engagement & Monetization | Mobile Games]()
+
+
+---
+
+
+### Front-End Web Developer Nanodegree
+
+Master the skills required to become a Front-End Web Developer, and start
+building beautiful, responsive websites optimized for mobile and desktop
+performance.
+
+Learn the fundamentals of how the web works and gain a working knowledge of the
+three foundational languages that power each and every website: HTML, CSS and
+JavaScript.
+
+  1. [Intro to HTML and CSS](https://www.udacity.com/courses/intro-to-html-and-css--ud304)
+  2. [Responsive Web Design Fundamentals](https://www.udacity.com/courses/responsive-web-design-fundamentals--ud893)
+  3. [Responsive Images](https://www.udacity.com/courses/responsive-images--ud882)
+  4. [JavaScript Basics](https://www.udacity.com/courses/javascript-basics--ud804)
+  5. [Intro to jQuery](https://www.udacity.com/courses/intro-to-jquery--ud245)
+  6. [Object-Oriented JavaScript](https://www.udacity.com/courses/object-oriented-javascript--ud015)
+  7. [HTML5 Canvas](https://www.udacity.com/courses/html5-canvas--ud292)
+  8. [Website Performance Optimization](https://www.udacity.com/courses/website-performance-optimization--ud884)
+  9. [Browser Rendering Optimization](https://www.udacity.com/courses/browser-rendering-optimization--ud860)
+  10. [Intro to AJAX](https://www.udacity.com/courses/intro-to-ajax--ud110)
+  11. [JavaScript Design Patterns](https://www.udacity.com/courses/javascript-design-patterns--ud989)
+  12. [JavaScript Testing](https://www.udacity.com/courses/javascript-testing--ud549)
+
+
+---
+
+
+### Senior Web Developer Nanodegree
+
+This program begins where our Front-End Web Developer Nanodegree program ends,
+and is designed to give intermediate developers the chance to build on existing
+front-end skills and master the newest technologies available.
+
+This program ensures you’re supremely well-prepared to succeed in a Senior Web
+Developer role.
+
+  1.  [Building High Conversion Web Forms](https://www.udacity.com/courses/building-high-conversion-web-forms--ud890)
+  2.  [Web Tooling & Automation](https://www.udacity.com/courses/web-tooling-automation--ud892)
+  3.  [JavaScript Promises](https://www.udacity.com/courses/javascript-promises--ud898)
+  4.  [Offline Web Applications](https://www.udacity.com/courses/offline-web-applications--ud899)
+  5.  Web Accessibility (coming Q1 2016)
+  6.  Component-Oriented Development (coming Q2 2016)
+  7.  Front-End Frameworks (coming Q1-Q2 2016)
+  8.  Client-Server Communications (coming Q1-Q2 2016)
+
+
+---
+
+
+### Full Stack Web Developer Nanodegree
+
+This program will prepare you for a job as a Full Stack Web Developer, and teach
+you to build complex server-side web applications that use powerful relational
+databases to persistently store data.
+
+You’ll learn to build applications that can support any front-end, and scale to
+support hundreds of thousands of users.
+
+  1. [Programming Foundations with Python](https://www.udacity.com/courses/programming-foundations-with-python--ud036)
+  2. [Intro to Relational Databases](https://www.udacity.com/courses/intro-to-relational-databases--ud197)
+  3. [Full Stack Foundations](https://www.udacity.com/courses/full-stack-foundations--ud088)
+  4. [Authentication & Authorization: OAuth](https://www.udacity.com/courses/authentication-authorization-oauth--ud330)
+  5. [Developing Scalable Apps in Python](https://www.udacity.com/courses/developing-scalable-apps-in-python--ud858)
+  6. [Linux Command Line Basics](https://www.udacity.com/courses/linux-command-line-basics--ud595)
+  7. [Configuring Linux Web Servers](https://www.udacity.com/courses/configuring-linux-web-servers--ud299)
+
+
+---
+
+
+### Data Analyst Nanodegree
+
+We built this program with expert analysts and scientists at leading technology companies to ensure you master the exact skills necessary to build a career in data science.
+
+Learn to clean up messy data, uncover patterns and insights, make predictions using machine learning, and clearly communicate critical findings.
+
+  1.  [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827)
+  2.  [Intro to Inferential Statistics](https://www.udacity.com/courses/intro-to-inferential-statistics--ud201)
+  3.  [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827)
+  4.  [Intro to Data Analysis](https://www.udacity.com/courses/intro-to-data-analysis--ud170)
+  5.  [Data Wrangling with MongoDB](https://www.udacity.com/courses/data-wrangling-with-mongodb--ud032)
+  6.  [Data Analysis with R](https://www.udacity.com/courses/data-analysis-with-r--ud651)
+  7.  [Intro to Machine Learning](https://www.udacity.com/courses/intro-to-machine-learning--ud120)
+  8.  [Data Visualization and D3.js](https://www.udacity.com/courses/data-visualization-and-d3js--ud507)
+  9.  [Intro to HTML and CSS](https://www.udacity.com/courses/intro-to-html-and-css--ud304)
+  10. [JavaScript Basics](https://www.udacity.com/courses/javascript-basics--ud804)
+  11. [A/B Testing](https://www.udacity.com/courses/ab-testing--ud257)
+
+
+---
+
+
+### Machine Learning Engineer Nanodegree
+
+Machine learning represents a key evolution in the fields of computer
+science, data analysis, software engineering, and artificial intelligence.
+
+This program will teach you how to become a machine learning engineer,
+and apply predictive models to massive data sets in fields like finance,
+healthcare, education, and more.
+
+  1. [Course Readiness Assessment](https://www.udacity.com/course/viewer#!/c-none/l-5714838578)
+  2. [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827)
+  3. [Intro to Data Science](https://www.udacity.com/courses/intro-to-data-science--ud359)
+  4. [Reinforcement Learning](https://www.udacity.com/courses/reinforcement-learning--ud600)
+  5. [Deep Learning](https://www.udacity.com/courses/deep-learning--ud730)
+  6. [Artificial Intelligence for Robotics](https://www.udacity.com/courses/artificial-intelligence-for-robotics--cs373)
+  7. [Machine Learning for Trading](https://www.udacity.com/courses/machine-learning-for-trading--ud501)
+
+
+---
+
+
+### Tech Entrepreneur Nanodegree
+
+Our Tech Entrepreneur Nanodegree program teaches you the skills you need to
+create your own revenue-generating app, and build a successful business around
+it. You’ll learn to succeed the Silicon Valley way!
+
+Built in partnership with Google, this program mixes theory and practice to
+show students how to transform ideas into market-ready products.
+
+  1. [Product Design](https://www.udacity.com/courses/product-design--ud509)
+  2. [App Monetization](https://www.udacity.com/courses/app-monetization--ud518)
+  3. [Rapid Prototyping](https://www.udacity.com/courses/rapid-prototyping--ud723)
+  4. [App Marketing](https://www.udacity.com/courses/app-marketing--ud719)
+
+
+---
+
+
+### Android Developer Nanodegree
+
+For intermediate Java developers pursuing Android specialization, this program
+teaches the tools, principles, and patterns that underlie all Android
+development.
+
+The skills you learn in this Nanodegree program will help you master the
+existing platform, and prepare you for the exciting opportunities in Android's
+future.
+
+  1. [Developing Android Apps](https://www.udacity.com/courses/developing-android-apps--ud853)
+  2. [Advanced Android App Development](https://www.udacity.com/courses/advanced-android-app-development--ud855)
+  3. [Gradle for Android and Java](https://www.udacity.com/courses/gradle-for-android-and-java--ud867)
+  4. [Material Design for Android Developers](https://www.udacity.com/courses/material-design-for-android-developers--ud862)
+  5. [Android Wear Development](https://www.udacity.com/courses/android-wear-development--ud875A)
+
+
+---
+
+
+### iOS Developer Nanodegree
+
+Being an iOS Developer is a remarkable occupation, and we’ve designed this
+Nanodegree program to teach you the skills required to launch your career.
+
+For those with previous object-oriented programming experience, you’ll learn
+Swift and build a multitude of portfolio-worthy iOS apps to demonstrate your
+expertise as an iOS Developer.
+
+  1. [Intro to iOS App Development with Swift](https://www.udacity.com/courses/intro-to-ios-app-development-with-swift--ud585)
+  2. [UIKit Fundamentals](https://www.udacity.com/courses/uikit-fundamentals--ud788)
+  3. [iOS Networking with Swift](https://www.udacity.com/courses/ios-networking-with-swift--ud421)
+  4. [iOS Persistence and Core Data](https://www.udacity.com/courses/ios-persistence-and-core-data--ud325)
+  5. [How to Make an iOS App](https://www.udacity.com/courses/how-to-make-an-ios-app--ud607)
+
+
+---
+
+
+### Mobile Game Developer Nanodegree
+
+If you want the skills to turn your game ideas into reality, or get ready to
+jump into professional game development, this is the program for you!
+
+The core of this Nanodegree program is libGDX, a powerful cross platform game
+development framework that allows you to release your game on a variety of
+devices and operating systems.
+
+  1. [2D Game Development with libGDX](https://www.udacity.com/courses/2d-game-development-with-libgdx--ud405)
+  2. [How to Make a Platformer Using libGDX](https://www.udacity.com/courses/how-to-make-a-platformer-using-libgdx--ud406)
+  3. [Engagement & Monetization | Mobile Games](https://www.udacity.com/courses/engagement-monetization-mobile-games--ud407)
+
+
+---
