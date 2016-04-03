@@ -2,14 +2,16 @@
 
 [Ucacity](https://www.udacity.com/) offers some great courses in their
 [Nanodegree](https://www.udacity.com/nanodegree) programs. If you don't have
-the money and/or just don't want to pay for them (and don't mind not getting
-the project reviews, additional student and career guidance, and their job
-guarantee), you can take each of the courses for free.
+the money, and/or just don't want to pay for them, you can take each of the
+courses for free.
 
-While it's no substitute for the actual Nanodegree programs, it still provides
-come great content for learning. Below is a list of each of the Nanodegrees
-currently offered and links to the individual courses in their curriculums. This
-page will be updated as they add more courses and Nanodegrees.
+While it's no substitute for the actual Nanodegree programs
+(which include project reviews, additional student and career guidance, and a
+job guarantee) it provides some great content for learning.
+
+Below is a list of each of the Nanodegrees currently offered and links to the
+individual courses in their curricula. This page will be updated as they add
+more courses and Nanodegrees.
 
 ## Table of Contents
 
