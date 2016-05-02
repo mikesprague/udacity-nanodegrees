@@ -70,9 +70,8 @@ Developer role.
   3.  [JavaScript Promises](https://www.udacity.com/courses/javascript-promises--ud898)
   4.  [Offline Web Applications](https://www.udacity.com/courses/offline-web-applications--ud899)
   5.  Web Accessibility (coming Q1 2016)
-  6.  Component-Oriented Development (coming Q2 2016)
-  7.  Front-End Frameworks (coming Q1-Q2 2016)
-  8.  Client-Server Communications (coming Q1-Q2 2016)
+  6.  [Front-End Frameworks](https://www.udacity.com/courses/front-end-frameworks--ud894)
+  7.  Client-Server Communications (coming Q1-Q2 2016)
 
 
 ---
