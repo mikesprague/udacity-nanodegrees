@@ -87,12 +87,17 @@ You’ll learn to build applications that can support any front-end, and scale t
 support hundreds of thousands of users.
 
   1. [Programming Foundations with Python](https://www.udacity.com/courses/programming-foundations-with-python--ud036)
-  2. [Intro to Relational Databases](https://www.udacity.com/courses/intro-to-relational-databases--ud197)
-  3. [Full Stack Foundations](https://www.udacity.com/courses/full-stack-foundations--ud088)
-  4. [Authentication & Authorization: OAuth](https://www.udacity.com/courses/authentication-authorization-oauth--ud330)
-  5. [Developing Scalable Apps in Python](https://www.udacity.com/courses/developing-scalable-apps-in-python--ud858)
-  6. [Linux Command Line Basics](https://www.udacity.com/courses/linux-command-line-basics--ud595)
-  7. [Configuring Linux Web Servers](https://www.udacity.com/courses/configuring-linux-web-servers--ud299)
+  2. [Intro to HTML and CSS](https://www.udacity.com/courses/intro-to-html-and-css--ud304)
+  3. [Responsive Web Design Fundamentals](https://www.udacity.com/courses/responsive-web-design-fundamentals--ud893)
+  4. [Responsive Images](https://www.udacity.com/courses/responsive-images--ud882)
+  5. [Intro to Relational Databases](https://www.udacity.com/courses/intro-to-relational-databases--ud197)
+  6. [Full Stack Foundations](https://www.udacity.com/courses/full-stack-foundations--ud088)
+  7. [Authentication & Authorization: OAuth](https://www.udacity.com/courses/authentication-authorization-oauth--ud330)
+  8. [Intro to AJAX](https://www.udacity.com/courses/intro-to-ajax--ud110)
+  9. [JavaScript Design Patterns](https://www.udacity.com/courses/javascript-design-patterns--ud989)
+  10. [Developing Scalable Apps in Python](https://www.udacity.com/courses/developing-scalable-apps-in-python--ud858)
+  11. [Linux Command Line Basics](https://www.udacity.com/courses/linux-command-line-basics--ud595)
+  12. [Configuring Linux Web Servers](https://www.udacity.com/courses/configuring-linux-web-servers--ud299)
 
 
 ---
