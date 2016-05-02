@@ -13,6 +13,9 @@ Below is a list of each of the Nanodegrees currently offered and links to the
 individual courses in their curricula. This page will be updated as they add
 more courses and Nanodegrees.
 
+**NOTE:** Only Nanodegree programs with their curricula listed on the Udacity
+website are part of this list.
+
 ## Table of Contents
 
   * [Front-End Web Developer Nanodegree](#front-end-web-developer-nanodegree)
