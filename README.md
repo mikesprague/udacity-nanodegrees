@@ -158,6 +158,7 @@ show students how to transform ideas into market-ready products.
   2. [App Monetization](https://www.udacity.com/courses/app-monetization--ud518)
   3. [Rapid Prototyping](https://www.udacity.com/courses/rapid-prototyping--ud723)
   4. [App Marketing](https://www.udacity.com/courses/app-marketing--ud719)
+  5. [Get Your Startup Started](https://www.udacity.com/courses/get-your-startup-started--ud806)
 
 
 ---
