@@ -16,6 +16,12 @@ more courses and Nanodegrees.
 **NOTE:** Only Nanodegree programs with their curricula listed on the Udacity
 website are part of this list.
 
+---
+
+Find this project useful? [Show some love :revolving_hearts:](https://www.creatorlove.com/mikesprague/udacity-nanodegrees) and buy me a cup of cofee! :coffee:
+
+---
+
 ## Table of Contents
 
   * [Front-End Web Developer Nanodegree](#front-end-web-developer-nanodegree)
