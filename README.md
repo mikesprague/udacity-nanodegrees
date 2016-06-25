@@ -116,7 +116,9 @@ support hundreds of thousands of users.
 
 ### Data Analyst Nanodegree
 
-We built this program with expert analysts and scientists at leading technology companies to ensure you master the exact skills necessary to build a career in data science.
+We built this program with expert analysts and scientists at leading technology
+companies to ensure you master the exact skills necessary to build a career in
+data science.
 
 Learn to clean up messy data, uncover patterns and insights, make predictions using machine learning, and clearly communicate critical findings.
 
@@ -247,3 +249,13 @@ courses are available now.
 
 
 ---
+
+### Android Basics Nanodegree
+
+Android apps are everywhere, and learning to build them can be a fantastic
+career move. No programming experience? No problem! The skills you learn in this
+beginning Nanodegree program will accelerate your journey to becoming a working
+Android Developer.
+
+  1. [Android Development for Beginners](https://www.udacity.com/courses/android-development-for-beginners--ud837)
+  2. [Android Basics: Multi-screen Apps](https://www.udacity.com/courses/android-basics-multi-screen-apps--ud839)
