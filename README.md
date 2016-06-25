@@ -79,7 +79,7 @@ Developer role.
   2.  [Web Tooling & Automation](https://www.udacity.com/courses/web-tooling-automation--ud892)
   3.  [JavaScript Promises](https://www.udacity.com/courses/javascript-promises--ud898)
   4.  [Offline Web Applications](https://www.udacity.com/courses/offline-web-applications--ud899)
-  5.  Web Accessibility (coming Q1 2016)
+  5.  [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
   6.  [Front-End Frameworks](https://www.udacity.com/courses/front-end-frameworks--ud894)
   7.  Client-Server Communications (coming Q1-Q2 2016)
 
