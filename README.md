@@ -81,7 +81,7 @@ Developer role.
   4.  [Offline Web Applications](https://www.udacity.com/courses/offline-web-applications--ud899)
   5.  [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
   6.  [Front-End Frameworks](https://www.udacity.com/courses/front-end-frameworks--ud894)
-  7.  Client-Server Communications (coming Q1-Q2 2016)
+  7.  [Client-Server Communications](https://www.udacity.com/course/client-server-communication--ud897)
 
 
 ---
