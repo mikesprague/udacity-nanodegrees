@@ -30,6 +30,7 @@ Find this project useful? [Show some love :revolving_hearts:](https://www.creato
   * [Data Analyst Nanodegree](#data-analyst-nanodegree)
   * [Machine Learning Engineer Nanodegree](#machine-learning-engineer-nanodegree)
   * [Tech Entrepreneur Nanodegree](#tech-entrepreneur-nanodegree)
+  * [Android Basics Nanodegree](#android-basics-nanodegree)
   * [Android Developer Nanodegree](#android-developer-nanodegree)
   * [iOS Developer Nanodegree](#ios-developer-nanodegree)
   * [Mobile Game Developer Nanodegree](#mobile-game-developer-nanodegree)
@@ -173,6 +174,19 @@ show students how to transform ideas into market-ready products.
   4. [App Marketing](https://www.udacity.com/courses/app-marketing--ud719)
   5. [Get Your Startup Started](https://www.udacity.com/courses/get-your-startup-started--ud806)
 
+---
+
+### Android Basics Nanodegree
+
+Android apps are everywhere, and learning to build them can be a fantastic
+career move. No programming experience? No problem! The skills you learn in this
+beginning Nanodegree program will accelerate your journey to becoming a working
+Android Developer.
+
+  1. [Android Development for Beginners](https://www.udacity.com/courses/android-development-for-beginners--ud837)
+  2. [Android Basics: Multi-screen Apps](https://www.udacity.com/courses/android-basics-multi-screen-apps--ud839)
+  3. [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+
 
 ---
 
@@ -246,16 +260,3 @@ courses are available now.
   5. Time Series Forecasting
   6. Segmentation Analysis
   7. Data Visualization
-
-
----
-
-### Android Basics Nanodegree
-
-Android apps are everywhere, and learning to build them can be a fantastic
-career move. No programming experience? No problem! The skills you learn in this
-beginning Nanodegree program will accelerate your journey to becoming a working
-Android Developer.
-
-  1. [Android Development for Beginners](https://www.udacity.com/courses/android-development-for-beginners--ud837)
-  2. [Android Basics: Multi-screen Apps](https://www.udacity.com/courses/android-basics-multi-screen-apps--ud839)
