@@ -224,6 +224,7 @@ expertise as an iOS Developer.
   3. [iOS Networking with Swift](https://www.udacity.com/courses/ios-networking-with-swift--ud421)
   4. [iOS Persistence and Core Data](https://www.udacity.com/courses/ios-persistence-and-core-data--ud325)
   5. [How to Make an iOS App](https://www.udacity.com/courses/how-to-make-an-ios-app--ud607)
+  6. [Objective-C for Swift Developers](https://www.udacity.com/courses/objective-c-for-swift-developers--ud1009)
 
 
 ---
