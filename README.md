@@ -158,7 +158,7 @@ healthcare, education, and more.
 ---
 
 
-### Tech Entrepreneur Nanodegree
+### Tech Entrepreneur Nanodegree (_NOTE: No longer listed on Udacity_)
 
 Our Tech Entrepreneur Nanodegree program teaches you the skills you need to
 create your own revenue-generating app, and build a successful business around
