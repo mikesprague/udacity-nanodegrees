@@ -34,7 +34,6 @@ Find this project useful? [Show some love :revolving_hearts:](https://www.creato
   * [Android Developer Nanodegree](#android-developer-nanodegree)
   * [iOS Developer Nanodegree](#ios-developer-nanodegree)
   * [Mobile Game Developer Nanodegree](#mobile-game-developer-nanodegree)
-  * [Business Analyst Nanodegree](#business-analyst-nanodegree)
 
 
 ---
@@ -245,18 +244,3 @@ devices and operating systems.
 
 
 ---
-
-### Business Analyst Nanodegree
-
-The Business Analyst Nanodegree consists of eight expert-reviewed projects
-supported by courses and lessons co-developed by Udacity and Alteryx. While
-the Nanodegree program will launch in the fall of 2016, the first three
-courses are available now.
-
-  1. [Problem Solving With Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
-  2. [Creating An Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
-  3. [Classification Modals](https://www.udacity.com/course/classification-models--ud978)
-  4. A/B Testing
-  5. Time Series Forecasting
-  6. Segmentation Analysis
-  7. Data Visualization
