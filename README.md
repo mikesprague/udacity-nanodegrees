@@ -246,3 +246,16 @@ devices and operating systems.
 
 
 ---
+
+
+### Predictive Analytics for Business Nanodegree
+
+
+As more and more companies incorporate predictive analytics into their data strategies, demand for business analysts with these skills is growing rapidly, and salaries are rising. This Nanodegree program will equip you with these very in-demand skills, and no programming experience is required to enroll!
+
+You’ll master the most important predictive techniques, work with leading tools in the space, and learn to deliver high-value solutions to important business problems.
+
+  1. [Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
+  2. [Creating an Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
+  3. [Classification Models](https://www.udacity.com/course/classification-models--ud978)
+  4. [A/B Testing](https://www.udacity.com/course/ab-testing--ud979)
