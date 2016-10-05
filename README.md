@@ -1,4 +1,4 @@
-Last Updated: August 16, 2016
+Last Updated: October 5, 2016
 
 # Udacity Nanodegrees
 
