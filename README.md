@@ -1,3 +1,5 @@
+Last Updated: August 16, 2016
+
 # Udacity Nanodegrees
 
 [Ucacity](https://www.udacity.com/) offers some great courses in their
