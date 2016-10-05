@@ -36,6 +36,7 @@ Find this project useful? [Show some love :revolving_hearts:](https://www.creato
   * [Android Developer Nanodegree](#android-developer-nanodegree)
   * [iOS Developer Nanodegree](#ios-developer-nanodegree)
   * [Mobile Game Developer Nanodegree](#mobile-game-developer-nanodegree)
+  * [Predictive Analytics for Business Nanodegree](#predictive-analytics-for-business-nanodegree)
 
 
 ---
