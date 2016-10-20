@@ -185,9 +185,11 @@ career move. No programming experience? No problem! The skills you learn in this
 beginning Nanodegree program will accelerate your journey to becoming a working
 Android Developer.
 
-  1. [Android Development for Beginners](https://www.udacity.com/courses/android-development-for-beginners--ud837)
-  2. [Android Basics: Multi-screen Apps](https://www.udacity.com/courses/android-basics-multi-screen-apps--ud839)
-  3. [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+  1. [Android Basics: User Interface](https://www.udacity.com/courses/android-basics-user-interface--ud834)
+  2. [Android Basics: User Input](https://www.udacity.com/courses/android-basics-user-input--ud836)
+  3. [Android Basics: Multi-screen Apps](https://www.udacity.com/courses/android-basics-multi-screen-apps--ud839)
+  4. [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+  5. [Android Basics: Data Storage](https://www.udacity.com/courses/android-basics-data-storage--ud845)
 
 
 ---
