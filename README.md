@@ -37,6 +37,7 @@ Find this project useful? [Show some love :revolving_hearts:](https://www.creato
   * [iOS Developer Nanodegree](#ios-developer-nanodegree)
   * [Mobile Game Developer Nanodegree](#mobile-game-developer-nanodegree)
   * [Predictive Analytics for Business Nanodegree](#predictive-analytics-for-business-nanodegree)
+  * [Machine Learning Engineer Nanodegree](#machine-learning-engineer-nanodegree)
 
 
 ---
@@ -267,3 +268,26 @@ business problems.
   5. [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
   6. [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
   7. [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
+
+
+---
+
+
+### Machine Learning Engineer Nanodegree
+
+Machine learning represents a key evolution in the fields of computer science,
+data analysis, software engineering, and artificial intelligence.
+
+This program will teach you how to become a machine learning engineer, and
+apply predictive models to massive data sets in fields like finance,
+healthcare, education, and more.
+
+You’ll master the most important predictive techniques, work with leading tools in the space,
+and learn to deliver high-value solutions to important business problems.
+
+  1. [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827)
+  2. [Intro to Data Science](https://www.udacity.com/courses/intro-to-data-science--ud359)
+  3. [Reinforcement Learning](https://www.udacity.com/courses/reinforcement-learning--ud600)
+  4. [Deep Learning](https://www.udacity.com/courses/deep-learning--ud730)
+  5. [Artificial Intelligence for Robotics](https://www.udacity.com/courses/artificial-intelligence-for-robotics--cs373)
+  6. [Machine Learning for Trading](https://www.udacity.com/courses/machine-learning-for-trading--ud501)
