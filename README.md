@@ -2,7 +2,7 @@ Last Updated: October 20, 2016
 
 # Udacity Nanodegrees
 
-[Ucacity](https://www.udacity.com/) offers some great courses in their
+[Udacity](https://www.udacity.com/) offers some great courses in their
 [Nanodegree](https://www.udacity.com/nanodegree) programs. If you don't have
 the money, and/or just don't want to pay for them, you can take each of the
 courses for free.
