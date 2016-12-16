@@ -151,10 +151,11 @@ healthcare, education, and more.
 
   1. [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827)
   2. [Intro to Data Science](https://www.udacity.com/courses/intro-to-data-science--ud359)
-  3. [Reinforcement Learning](https://www.udacity.com/courses/reinforcement-learning--ud600)
-  4. [Deep Learning](https://www.udacity.com/courses/deep-learning--ud730)
-  5. [Artificial Intelligence for Robotics](https://www.udacity.com/courses/artificial-intelligence-for-robotics--cs373)
-  6. [Machine Learning for Trading](https://www.udacity.com/courses/machine-learning-for-trading--ud501)
+  3. [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+  4. [Reinforcement Learning](https://www.udacity.com/courses/reinforcement-learning--ud600)
+  5. [Deep Learning](https://www.udacity.com/courses/deep-learning--ud730)
+  6. [Artificial Intelligence for Robotics](https://www.udacity.com/courses/artificial-intelligence-for-robotics--cs373)
+  7. [Machine Learning for Trading](https://www.udacity.com/courses/machine-learning-for-trading--ud501)
 
 
 ---
