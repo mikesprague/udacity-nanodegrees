@@ -1,4 +1,4 @@
-Last Updated: December 15, 2016
+Last Updated: January 10, 2017
 
 # Udacity Nanodegrees
 
@@ -161,7 +161,9 @@ healthcare, education, and more.
 ---
 
 
-### Tech Entrepreneur Nanodegree (_NOTE: No longer listed on Udacity_)
+### Tech Entrepreneur Nanodegree 
+
+#### _No longer listed on Udacity_
 
 Our Tech Entrepreneur Nanodegree program teaches you the skills you need to
 create your own revenue-generating app, and build a successful business around
@@ -235,7 +237,9 @@ expertise as an iOS Developer.
 ---
 
 
-### Mobile Game Developer Nanodegree (_NOTE: No longer listed on Udacity_)
+### Mobile Game Developer Nanodegree
+
+#### _No longer listed on Udacity_
 
 If you want the skills to turn your game ideas into reality, or get ready to
 jump into professional game development, this is the program for you!
