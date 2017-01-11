@@ -235,7 +235,7 @@ expertise as an iOS Developer.
 ---
 
 
-### Mobile Game Developer Nanodegree
+### Mobile Game Developer Nanodegree (_NOTE: No longer listed on Udacity_)
 
 If you want the skills to turn your game ideas into reality, or get ready to
 jump into professional game development, this is the program for you!
