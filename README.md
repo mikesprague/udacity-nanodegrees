@@ -1,5 +1,3 @@
-Last Updated: January 10, 2017
-
 # Udacity Nanodegrees
 
 [Udacity](https://www.udacity.com/) offers some great courses in their
