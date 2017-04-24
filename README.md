@@ -69,6 +69,8 @@ JavaScript.
 
 ### Senior Web Developer Nanodegree
 
+#### _No longer listed on Udacity_
+
 This program begins where our Front-End Web Developer Nanodegree program ends,
 and is designed to give intermediate developers the chance to build on existing
 front-end skills and master the newest technologies available.
