@@ -112,6 +112,11 @@ support hundreds of thousands of users.
   11. [Developing Scalable Apps in Python](https://www.udacity.com/courses/developing-scalable-apps-in-python--ud858)
   12. [Linux Command Line Basics](https://www.udacity.com/courses/linux-command-line-basics--ud595)
   13. [Configuring Linux Web Servers](https://www.udacity.com/courses/configuring-linux-web-servers--ud299)
+  14. [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+  15. [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+  16. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
+  17. [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
+  18. [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
 
 
 ---
