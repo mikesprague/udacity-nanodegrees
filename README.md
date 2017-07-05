@@ -18,7 +18,10 @@ website are part of this list.
 
 ---
 
-Find this project useful? [Show some love :revolving_hearts:](https://www.creatorlove.com/mikesprague/udacity-nanodegrees) and buy me a cup of cofee! :coffee:
+#### Find this project useful? Donations welcome, show some love! :revolving_hearts:!
+
+  * <a href="https://www.coinbase.com/checkouts/c23e1399f98ff842082fd40e1be39139" target="_blank"><img src="https://www.coinbase.com/assets/buttons/donation_small-c2401ae30dd0ad6018deadfc4bb506bf56b5b7062738ee449bee97c4e80ec70c.png" alt="Donate Bitcoins" style="width: 120px; margin-bottom: 20px;"></a>
+  * <a href="https://www.paypal.me/mikesprague/5" target="_blank"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_200x51.png" alt="PayPal.me/mikesprague" style="width: 120px;"></a>
 
 ---
 
@@ -166,7 +169,7 @@ healthcare, education, and more.
 ---
 
 
-### Tech Entrepreneur Nanodegree 
+### Tech Entrepreneur Nanodegree
 
 #### _No longer listed on Udacity_
 
