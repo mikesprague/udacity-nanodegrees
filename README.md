@@ -27,18 +27,25 @@ website are part of this list.
 
 ## Table of Contents
 
+:small_red_triangle_down: = No longer listed on Udacity
+
+  ### Web Technology
   * [Front-End Web Developer Nanodegree](#front-end-web-developer-nanodegree)
-  * [Senior Web Developer Nanodegree](#senior-web-developer-nanodegree)
   * [Full Stack Web Developer Nanodegree](#full-stack-web-developer-nanodegree)
+  * [Senior Web Developer Nanodegree](#senior-web-developer-nanodegree) :small_red_triangle_down:
+  
+  ### Enterprise Technology
   * [Data Analyst Nanodegree](#data-analyst-nanodegree)
   * [Machine Learning Engineer Nanodegree](#machine-learning-engineer-nanodegree)
-  * [Tech Entrepreneur Nanodegree](#tech-entrepreneur-nanodegree)
+  * [Predictive Analytics for Business Nanodegree](#predictive-analytics-for-business-nanodegree)
+  * [Tech Entrepreneur Nanodegree](#tech-entrepreneur-nanodegree) :small_red_triangle_down:
+  
+  ### Mobile Technology
   * [Android Basics Nanodegree](#android-basics-nanodegree)
   * [Android Developer Nanodegree](#android-developer-nanodegree)
   * [iOS Developer Nanodegree](#ios-developer-nanodegree)
-  * [Mobile Game Developer Nanodegree](#mobile-game-developer-nanodegree)
-  * [Predictive Analytics for Business Nanodegree](#predictive-analytics-for-business-nanodegree)
-
+  * [Mobile Game Developer Nanodegree](#mobile-game-developer-nanodegree) :small_red_triangle_down:
+  
 
 ---
 
@@ -65,29 +72,6 @@ JavaScript.
   10. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
   11. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
   12. [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
-
-
----
-
-
-### Senior Web Developer Nanodegree
-
-#### _No longer listed on Udacity_
-
-This program begins where our Front-End Web Developer Nanodegree program ends,
-and is designed to give intermediate developers the chance to build on existing
-front-end skills and master the newest technologies available.
-
-This program ensures you’re supremely well-prepared to succeed in a Senior Web
-Developer role.
-
-  1.  [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
-  2.  [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
-  3.  [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
-  4.  [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
-  5.  [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
-  6.  [Front-End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
-  7.  [Client-Server Communications](https://www.udacity.com/course/client-server-communication--ud897)
 
 
 ---
@@ -120,8 +104,32 @@ support hundreds of thousands of users.
   16. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
   17. [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
   18. [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+  
+
+---
 
 
+### Senior Web Developer Nanodegree
+
+#### _No longer listed on Udacity_
+
+This program begins where our Front-End Web Developer Nanodegree program ends,
+and is designed to give intermediate developers the chance to build on existing
+front-end skills and master the newest technologies available.
+
+This program ensures you’re supremely well-prepared to succeed in a Senior Web
+Developer role.
+
+  1.  [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
+  2.  [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
+  3.  [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
+  4.  [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
+  5.  [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
+  6.  [Front-End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
+  7.  [Client-Server Communications](https://www.udacity.com/course/client-server-communication--ud897)
+
+
+---
 ---
 
 
@@ -169,6 +177,29 @@ healthcare, education, and more.
 ---
 
 
+### Predictive Analytics for Business Nanodegree
+
+As more and more companies incorporate predictive analytics into their data
+strategies, demand for business analysts with these skills is growing rapidly,
+and salaries are rising. This Nanodegree program will equip you with these very
+in-demand skills, and no programming experience is required to enroll!
+
+You’ll master the most important predictive techniques, work with leading
+tools in the space, and learn to deliver high-value solutions to important
+business problems.
+
+  1. [Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
+  2. [Creating an Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
+  3. [Classification Models](https://www.udacity.com/course/classification-models--ud978)
+  4. [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
+  5. [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
+  6. [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
+  7. [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
+  
+  
+---
+
+
 ### Tech Entrepreneur Nanodegree
 
 #### _No longer listed on Udacity_
@@ -186,7 +217,10 @@ show students how to transform ideas into market-ready products.
   4. [App Marketing](https://www.udacity.com/course/app-marketing--ud719)
   5. [Get Your Startup Started](https://www.udacity.com/course/get-your-startup-started--ud806)
 
+
 ---
+---
+
 
 ### Android Basics Nanodegree
 
@@ -261,24 +295,4 @@ devices and operating systems.
   3. [Engagement & Monetization | Mobile Games](https://www.udacity.com/course/engagement-monetization-mobile-games--ud407)
 
 
----
 
-
-### Predictive Analytics for Business Nanodegree
-
-As more and more companies incorporate predictive analytics into their data
-strategies, demand for business analysts with these skills is growing rapidly,
-and salaries are rising. This Nanodegree program will equip you with these very
-in-demand skills, and no programming experience is required to enroll!
-
-You’ll master the most important predictive techniques, work with leading
-tools in the space, and learn to deliver high-value solutions to important
-business problems.
-
-  1. [Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
-  2. [Creating an Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
-  3. [Classification Models](https://www.udacity.com/course/classification-models--ud978)
-  4. [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
-  5. [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
-  6. [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
-  7. [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
