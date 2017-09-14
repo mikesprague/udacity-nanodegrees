@@ -95,6 +95,8 @@ Developer role.
 
 ### Full Stack Web Developer Nanodegree
 
+#### _v4.0_
+
 This program will prepare you for a job as a Full Stack Web Developer, and teach
 you to build complex server-side web applications that use powerful relational
 databases to persistently store data.
@@ -105,21 +107,20 @@ support hundreds of thousands of users.
   1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
   2. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
   3. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
-  4. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
-  5. [Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171)
-  6. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
-  7. [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
-  8. [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
-  9. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
-  10. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
-  11. [Developing Scalable Apps in Python](https://www.udacity.com/course/developing-scalable-apps-in-python--ud858)
-  12. [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
-  13. [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
-  14. [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-  15. [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
-  16. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
-  17. [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
-  18. [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+  4. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
+  5. [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+  6. [GitHub and Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+  7. [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
+  8. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+  9. [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
+  10. [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+  11. [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+  12. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
+  13. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
+  14. [Google Maps APIs](https://www.udacity.com/course/google-maps-apis--ud864)
+  15. [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+  16. [Elective Course: Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
+  17. [Elective Course: Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
 
 ---
