@@ -1,27 +1,48 @@
 # Udacity Nanodegrees
 
-[Udacity](https://www.udacity.com/) offers some great courses in their
+[Udacity](https://www.udacity.com/) offers some great content in their
 [Nanodegree](https://www.udacity.com/nanodegree) programs. If you don't have
-the money, and/or just don't want to pay for them, you can take each of the
+the money, and/or just don't want to pay for them, you can take many of the
 courses for free.
 
 While it's no substitute for the actual Nanodegree programs
 (which include project reviews, additional student and career guidance, and a
-job guarantee) it provides some great content for learning.
+job guarantee) there is some great content available for learning.
 
-Below is a list of each of the Nanodegrees currently offered and links to the
-individual courses in their curricula. This page will be updated as they add
-more courses and Nanodegrees.
-
-**NOTE:** Only Nanodegree programs with their curricula listed on the Udacity
-website are part of this list.
+NOTE: I have NO affiliation with Udacity
 
 ---
 
-#### Find this project useful? Donations welcome, show some love! :revolving_hearts:!
+## Why are only some of the Nanodegrees listed here?
 
-  * <a href="https://www.coinbase.com/checkouts/c23e1399f98ff842082fd40e1be39139" target="_blank"><img src="https://www.coinbase.com/assets/buttons/donation_small-c2401ae30dd0ad6018deadfc4bb506bf56b5b7062738ee449bee97c4e80ec70c.png" alt="Donate Bitcoins" style="width: 120px; margin-bottom: 20px;"></a>
-  * <a href="https://www.paypal.me/mikesprague/5" target="_blank"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_200x51.png" alt="PayPal.me/mikesprague" style="width: 120px;"></a>
+The focus of this project has always been making learning accessible. As
+such, I've chosen to only only list Nanodegrees with free content. All of
+the Nanodegrees programs listed here meet the following criteria:
+
+* Nanodegree lists syllabus on it's public-facing (non-logged in) page
+* Links to each course in the syllabus are available on the public-facing Nanodegree page
+* Individual courses are available to take for free via their public facing course page
+
+Lately, as Udacity adds more and more great (and relevent) programs, the
+newer Nanodegrees haven't been listing the courses and/or linking to them and
+this list hasn't been updated as frequently.
+
+### What about pull requests, I'd like to contribute?
+
+Awesome! As long as your PR meets the same 3 criteria in the last section.
+
+I am aware that some of the listed Nanodegrees offer a different/newer syllabus to
+their paid students. I'm still deciding how I want to handle that here. If you've
+had a PR closed because of this, I will contact you directly.
+
+#### Are you really taking donations? You're barely even updating this anymore!?!
+
+Yeah, yeah. I hear ya. When I first created this project there were no links
+to donate. They were only added after receiving a surprising amount of requests
+from very kind people who found the project useful and asked for them.
+
+* Bitcoin Wallet Address: 1375JTEBo1AFEsK2HUh17jth3KqPgJPSxC
+* PayPal/Credit/Debit: [https://www.paypal.me/mikesprague](https://www.paypal.me/mikesprague)
 
 ---
 
