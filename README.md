@@ -59,6 +59,10 @@ from very kind people who found the project useful and asked for them.
 * [iOS Developer Nanodegree](#ios-developer-nanodegree)
 * [Mobile Game Developer Nanodegree](#mobile-game-developer-nanodegree)
 * [Predictive Analytics for Business Nanodegree](#predictive-analytics-for-business-nanodegree)
+* Data Structures & Algorithms Foundation
+* Deep Learning
+* Computer Vision Foundation
+* Neural Networks Foundation
 
 ---
 
