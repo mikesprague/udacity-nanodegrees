@@ -75,7 +75,7 @@ JavaScript.
 1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
 1. [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 1. [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
-1. [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)
+1. [Intro to Javascript](https://www.udacity.com/course/intro-to-javascript--ud803)
 1. [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
 1. [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud015)
 1. [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
