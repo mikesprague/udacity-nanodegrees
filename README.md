@@ -222,7 +222,7 @@ The skills you learn in this Nanodegree program will help you master the
 existing platform, and prepare you for the exciting opportunities in Android's
 future.
 
-1. [Developing Android Apps](https://www.udacity.com/course/developing-android-apps--ud853)
+1. [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 1. [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
 1. [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
 1. [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
