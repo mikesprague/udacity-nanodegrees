@@ -135,6 +135,7 @@ support hundreds of thousands of users.
 1. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
 1. [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
 1. [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+1. [Networking for Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
 ---
 
