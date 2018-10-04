@@ -84,7 +84,7 @@ JavaScript.
 1. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
 1. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 1. [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
-
+1. Intro to Javascript (https://in.udacity.com/course/intro-to-javascript--ud803-india)
 ---
 
 ### Senior Web Developer Nanodegree
