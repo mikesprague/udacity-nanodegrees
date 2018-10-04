@@ -84,6 +84,7 @@ JavaScript.
 1. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
 1. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 1. [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
+1. data visualisation and d3.js (https://in.udacity.com/course/data-visualization-and-d3js--ud507)
 
 ---
 
@@ -135,6 +136,7 @@ support hundreds of thousands of users.
 1. [Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
 1. [HTTP & Web Servers](https://www.udacity.com/course/http-web-servers--ud303)
 1. [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+1.
 
 ---
 
