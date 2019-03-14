@@ -16,7 +16,7 @@ NOTE: I have NO affiliation with Udacity
 ## Why are only some of the Nanodegrees listed here?
 
 The focus of this project has always been making learning accessible. As
-such, I've chosen to only only list Nanodegrees with free content. All of
+such, I've chosen to only list Nanodegrees with free content. All of
 the Nanodegrees programs listed here meet the following criteria:
 
 * Nanodegree lists syllabus on it's public-facing (non-logged in) page
