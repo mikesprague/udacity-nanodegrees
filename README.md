@@ -56,7 +56,7 @@ Awesome! As long as your PR meets the same 3 criteria in the last section:
 ### Front-End Web Developer Nanodegree
 
 <details>
-  <summary>Expand to View Details</summary>
+  <summary>View Details</summary>
 
 Master the skills required to become a Front-End Web Developer, and start
 building beautiful, responsive websites optimized for mobile and desktop
@@ -86,7 +86,7 @@ JavaScript.
 ### Full Stack Web Developer Nanodegree
 
 <details>
-  <summary>Expand to View Details</summary>
+  <summary>View Details</summary>
 
 This program will prepare you for a job as a Full Stack Web Developer, and teach
 you to build complex server-side web applications that use powerful relational
@@ -131,7 +131,7 @@ support hundreds of thousands of users.
 #### _No longer listed on Udacity_
 
 <details>
-  <summary>Expand to View Details</summary>
+  <summary>View Details</summary>
 
 This program begins where our Front-End Web Developer Nanodegree program ends,
 and is designed to give intermediate developers the chance to build on existing
@@ -155,7 +155,7 @@ Developer role.
 ### Data Analyst Nanodegree
 
 <details>
-  <summary>Expand to View Details</summary>
+  <summary>View Details</summary>
 
 We built this program with expert analysts and scientists at leading technology
 companies to ensure you master the exact skills necessary to build a career in
@@ -181,7 +181,7 @@ Learn to clean up messy data, uncover patterns and insights, make predictions us
 ### Machine Learning Engineer Nanodegree
 
 <details>
-  <summary>Expand to View Details</summary>
+  <summary>View Details</summary>
 
 Machine learning represents a key evolution in the fields of computer
 science, data analysis, software engineering, and artificial intelligence.
@@ -205,7 +205,7 @@ healthcare, education, and more.
 ### Predictive Analytics for Business Nanodegree
 
 <details>
-  <summary>Expand to View Details</summary>
+  <summary>View Details</summary>
 
 As more and more companies incorporate predictive analytics into their data
 strategies, demand for business analysts with these skills is growing rapidly,
@@ -231,7 +231,7 @@ business problems.
 ### Android Basics Nanodegree
 
 <details>
-  <summary>Expand to View Details</summary>
+  <summary>View Details</summary>
 
 Android apps are everywhere, and learning to build them can be a fantastic
 career move. No programming experience? No problem! The skills you learn in this
@@ -251,7 +251,7 @@ Android Developer.
 ### Android Developer Nanodegree
 
 <details>
-  <summary>Expand to View Details</summary>
+  <summary>View Details</summary>
 
 For intermediate Java developers pursuing Android specialization, this program
 teaches the tools, principles, and patterns that underlie all Android
@@ -274,7 +274,7 @@ future.
 ### iOS Developer Nanodegree
 
 <details>
-  <summary>Expand to View Details</summary>
+  <summary>View Details</summary>
 
 Being an iOS Developer is a remarkable occupation, and we’ve designed this
 Nanodegree program to teach you the skills required to launch your career.
@@ -299,7 +299,7 @@ expertise as an iOS Developer.
 #### _No longer listed on Udacity_
 
 <details>
-  <summary>Expand to View Details</summary>
+  <summary>View Details</summary>
 
 If you want the skills to turn your game ideas into reality, or get ready to
 jump into professional game development, this is the program for you!
@@ -321,7 +321,7 @@ devices and operating systems.
 #### _No longer listed on Udacity_
 
 <details>
-  <summary>Expand to View Details</summary>
+  <summary>View Details</summary>
 
 Our Tech Entrepreneur Nanodegree program teaches you the skills you need to
 create your own revenue-generating app, and build a successful business around
