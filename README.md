@@ -29,7 +29,11 @@ this list hasn't been updated as frequently.
 
 ### What about pull requests, I'd like to contribute
 
-Awesome! As long as your PR meets the same 3 criteria in the last section.
+Awesome! As long as your PR meets the same 3 criteria in the last section:
+
+* Nanodegree lists syllabus on it's public-facing (non-logged in) page
+* Links to each course in the syllabus are available on the public-facing Nanodegree page
+* Individual courses are available to take for free via their public facing course page
 
 ---
 
