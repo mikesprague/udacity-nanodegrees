@@ -55,6 +55,9 @@ Awesome! As long as your PR meets the same 3 criteria in the last section:
 
 ### Front-End Web Developer Nanodegree
 
+<details>
+  <summary>Expand to View Details</summary>
+
 Master the skills required to become a Front-End Web Developer, and start
 building beautiful, responsive websites optimized for mobile and desktop
 performance.
@@ -76,9 +79,14 @@ JavaScript.
 1. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 1. [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
 
+</details>
+
 ---
 
 ### Full Stack Web Developer Nanodegree
+
+<details>
+  <summary>Expand to View Details</summary>
 
 This program will prepare you for a job as a Full Stack Web Developer, and teach
 you to build complex server-side web applications that use powerful relational
@@ -114,11 +122,16 @@ support hundreds of thousands of users.
 1. [Javascript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 1. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
 
+</details>
+
 ---
 
 ### Senior Web Developer Nanodegree
 
 #### _No longer listed on Udacity_
+
+<details>
+  <summary>Expand to View Details</summary>
 
 This program begins where our Front-End Web Developer Nanodegree program ends,
 and is designed to give intermediate developers the chance to build on existing
@@ -135,9 +148,14 @@ Developer role.
 1. [Front-End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
 1. [Client-Server Communications](https://www.udacity.com/course/client-server-communication--ud897)
 
+</details>
+
 ---
 
 ### Data Analyst Nanodegree
+
+<details>
+  <summary>Expand to View Details</summary>
 
 We built this program with expert analysts and scientists at leading technology
 companies to ensure you master the exact skills necessary to build a career in
@@ -156,9 +174,14 @@ Learn to clean up messy data, uncover patterns and insights, make predictions us
 1. [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)
 1. [A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
 
+</details>
+
 ---
 
 ### Machine Learning Engineer Nanodegree
+
+<details>
+  <summary>Expand to View Details</summary>
 
 Machine learning represents a key evolution in the fields of computer
 science, data analysis, software engineering, and artificial intelligence.
@@ -175,9 +198,14 @@ healthcare, education, and more.
 1. [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 1. [Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
 
+</details>
+
 ---
 
 ### Predictive Analytics for Business Nanodegree
+
+<details>
+  <summary>Expand to View Details</summary>
 
 As more and more companies incorporate predictive analytics into their data
 strategies, demand for business analysts with these skills is growing rapidly,
@@ -196,9 +224,14 @@ business problems.
 1. [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
 1. [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
 
+</details>
+
 ---
 
 ### Android Basics Nanodegree
+
+<details>
+  <summary>Expand to View Details</summary>
 
 Android apps are everywhere, and learning to build them can be a fantastic
 career move. No programming experience? No problem! The skills you learn in this
@@ -211,9 +244,14 @@ Android Developer.
 1. [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
 1. [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
 
+</details>
+
 ---
 
 ### Android Developer Nanodegree
+
+<details>
+  <summary>Expand to View Details</summary>
 
 For intermediate Java developers pursuing Android specialization, this program
 teaches the tools, principles, and patterns that underlie all Android
@@ -229,9 +267,14 @@ future.
 1. [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
 1. [Android Wear Development](https://www.udacity.com/course/android-wear-development--ud875A)
 
+</details>
+
 ---
 
 ### iOS Developer Nanodegree
+
+<details>
+  <summary>Expand to View Details</summary>
 
 Being an iOS Developer is a remarkable occupation, and we’ve designed this
 Nanodegree program to teach you the skills required to launch your career.
@@ -247,11 +290,16 @@ expertise as an iOS Developer.
 1. [How to Make an iOS App](https://www.udacity.com/course/how-to-make-an-ios-app--ud607)
 1. [Objective-C for Swift Developers](https://www.udacity.com/course/objective-c-for-swift-developers--ud1009)
 
+</details>
+
 ---
 
 ### Mobile Game Developer Nanodegree
 
 #### _No longer listed on Udacity_
+
+<details>
+  <summary>Expand to View Details</summary>
 
 If you want the skills to turn your game ideas into reality, or get ready to
 jump into professional game development, this is the program for you!
@@ -264,11 +312,16 @@ devices and operating systems.
 1. [How to Make a Platformer Using libGDX](https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406)
 1. [Engagement & Monetization | Mobile Games](https://www.udacity.com/course/engagement-monetization-mobile-games--ud407)
 
+</details>
+
 ---
 
 ### Tech Entrepreneur Nanodegree
 
 #### _No longer listed on Udacity_
+
+<details>
+  <summary>Expand to View Details</summary>
 
 Our Tech Entrepreneur Nanodegree program teaches you the skills you need to
 create your own revenue-generating app, and build a successful business around
@@ -282,3 +335,5 @@ show students how to transform ideas into market-ready products.
 1. [Rapid Prototyping](https://www.udacity.com/course/rapid-prototyping--ud723)
 1. [App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 1. [Get Your Startup Started](https://www.udacity.com/course/get-your-startup-started--ud806)
+
+</details>
