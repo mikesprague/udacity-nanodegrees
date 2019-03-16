@@ -89,30 +89,30 @@ support hundreds of thousands of users.
 
 #### Part 1: Developer Tools
 
-* [Shell WorkShop](https://www.udacity.com/course/shell-workshop--ud206)
-* Git & Github - [Part 1](https://www.udacity.com/course/how-to-use-git-and-github--ud775), [Part 2](https://www.udacity.com/course/github-collaboration--ud456)
-* [HTTP & Webservers](https://www.udacity.com/course/http-web-servers--ud303)
-* [Networking For Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+1. [Shell WorkShop](https://www.udacity.com/course/shell-workshop--ud206)
+1. Git & Github - [Part 1](https://www.udacity.com/course/how-to-use-git-and-github--ud775), [Part 2](https://www.udacity.com/course/github-collaboration--ud456)
+1. [HTTP & Webservers](https://www.udacity.com/course/http-web-servers--ud303)
+1. [Networking For Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
 #### Part 2: Databases with SQL & Python
 
-* [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+1. [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 
 #### Part 3: Servers, Authorization, and CRUD
 
-* [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
-* [Authentication & Authorization](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
-* [RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+1. [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
+1. [Authentication & Authorization](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+1. [RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
 
 #### Part 4: Deploying to Linux Servers
 
-* [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+1. [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 
 #### Extracurricular Material
 
-* [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
-* [Javascript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
-* [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
+1. [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
+1. [Javascript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
+1. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
 
 ---
 
