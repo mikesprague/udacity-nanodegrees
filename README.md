@@ -9,7 +9,7 @@ While it's no substitute for the actual Nanodegree programs
 (which include project reviews, additional student and career guidance, and a
 job guarantee) there is some great content available for learning.
 
-NOTE: I have NO affiliation with Udacity
+NOTE: I have NO affiliation with Udacity or Google
 
 ---
 
