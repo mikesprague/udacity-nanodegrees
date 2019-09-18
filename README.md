@@ -78,6 +78,7 @@ JavaScript.
 1. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
 1. [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 1. [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
+1. [Front-End Interview Prep](https://www.udacity.com/course/front-end-interview-prep--ud250)
 
 </details>
 
@@ -121,6 +122,10 @@ support hundreds of thousands of users.
 1. [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 1. [Javascript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 1. [Intro to AJAX](https://www.udacity.com/course/intro-to-ajax--ud110)
+
+#### Interviewing
+
+1. [Full-Stack Interview Prep](https://www.udacity.com/course/full-stack-interview-prep--ud252)
 
 </details>
 
@@ -197,6 +202,7 @@ healthcare, education, and more.
 1. [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 1. [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 1. [Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
+1. [Machine Learning Interview Preparation](https://www.udacity.com/course/machine-learning-interview-prep--ud1001)
 
 </details>
 
@@ -266,6 +272,7 @@ future.
 1. [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
 1. [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
 1. [Android Wear Development](https://www.udacity.com/course/android-wear-development--ud875A)
+1. [Android Interview Prep](https://www.udacity.com/course/android-interview-prep--ud241)
 
 </details>
 
@@ -289,6 +296,8 @@ expertise as an iOS Developer.
 1. [iOS Persistence and Core Data](https://www.udacity.com/course/ios-persistence-and-core-data--ud325)
 1. [How to Make an iOS App](https://www.udacity.com/course/how-to-make-an-ios-app--ud607)
 1. [Objective-C for Swift Developers](https://www.udacity.com/course/objective-c-for-swift-developers--ud1009)
+1. [iOS Interview Prep](https://www.udacity.com/course/ios-interview-prep--ud240)
+1. [Data Structures & Algorithms in Swift](https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011)
 
 </details>
 
