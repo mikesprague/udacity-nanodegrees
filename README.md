@@ -39,10 +39,10 @@ Awesome! As long as your PR meets the same 3 criteria in the last section:
 
 ## Table of Contents
 
-* [Data Structures and Algorithms Nanodegree](#data-structures-and-algorithms-nanodegree)
 * [Front-End Web Developer Nanodegree](#front-end-web-developer-nanodegree)
 * [Full Stack Web Developer Nanodegree](#full-stack-web-developer-nanodegree)
 * [Senior Web Developer Nanodegree](#senior-web-developer-nanodegree)
+* [Data Structures and Algorithms Nanodegree](#data-structures-and-algorithms-nanodegree)
 * [Data Analyst Nanodegree](#data-analyst-nanodegree)
 * [Machine Learning Engineer Nanodegree](#machine-learning-engineer-nanodegree)
 * [Predictive Analytics for Business Nanodegree](#predictive-analytics-for-business-nanodegree)
@@ -53,30 +53,6 @@ Awesome! As long as your PR meets the same 3 criteria in the last section:
 * [Tech Entrepreneur Nanodegree](#tech-entrepreneur-nanodegree)
 
 ---
-
-### Data Structures and Algorithms Nanodegree
-
-<details>
-  <summary>View Details</summary>
-
-Ace Technical Coding Interviews
-
-In this nanodegree you will learn data structures and algorithms by solving 80+ practice problems.
-You will begin each course by learning to solve defined problems related to a particular data
-structure and algorithm.
-
-By the end of each course, you would be able to evaluate and assess
-different data structures and algorithms for any open-ended problem and implement a solution based
-on your design choices.
-
-1. [Data Structures and Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
-1. [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
-1. [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
-1. [Computability, Complexity & Algorithms](https://www.udacity.com/course/computability-complexity-algorithms--ud061)
-1. [Intro to Graduate Algorithms](https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401)
-1. [High Performance Computing](https://www.udacity.com/course/high-performance-computing--ud281)
-
-</details>
 
 ### Front-End Web Developer Nanodegree
 
@@ -177,6 +153,32 @@ Developer role.
 1. [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 1. [Front-End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
 1. [Client-Server Communications](https://www.udacity.com/course/client-server-communication--ud897)
+
+</details>
+
+---
+
+### Data Structures and Algorithms Nanodegree
+
+<details>
+  <summary>View Details</summary>
+
+Ace Technical Coding Interviews
+
+In this nanodegree you will learn data structures and algorithms by solving 80+ practice problems.
+You will begin each course by learning to solve defined problems related to a particular data
+structure and algorithm.
+
+By the end of each course, you would be able to evaluate and assess
+different data structures and algorithms for any open-ended problem and implement a solution based
+on your design choices.
+
+1. [Data Structures and Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+1. [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
+1. [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
+1. [Computability, Complexity & Algorithms](https://www.udacity.com/course/computability-complexity-algorithms--ud061)
+1. [Intro to Graduate Algorithms](https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401)
+1. [High Performance Computing](https://www.udacity.com/course/high-performance-computing--ud281)
 
 </details>
 
