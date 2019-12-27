@@ -296,6 +296,8 @@ future.
 
 1. [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 1. [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
+1. [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+1. [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
 1. [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
 1. [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
 1. [Android Wear Development](https://www.udacity.com/course/android-wear-development--ud875A)
