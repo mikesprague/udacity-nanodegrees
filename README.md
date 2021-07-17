@@ -39,6 +39,7 @@ Awesome! As long as your PR meets the same 3 criteria in the last section:
 
 ## Table of Contents
 
+* [Intro to Programming Nanodegree](#intro-to-programming-nanodegree)
 * [Front-End Web Developer Nanodegree](#front-end-web-developer-nanodegree)
 * [Full Stack Web Developer Nanodegree](#full-stack-web-developer-nanodegree)
 * [Senior Web Developer Nanodegree](#senior-web-developer-nanodegree)
@@ -51,6 +52,27 @@ Awesome! As long as your PR meets the same 3 criteria in the last section:
 * [iOS Developer Nanodegree](#ios-developer-nanodegree)
 * [Mobile Game Developer Nanodegree](#mobile-game-developer-nanodegree)
 * [Tech Entrepreneur Nanodegree](#tech-entrepreneur-nanodegree)
+
+---
+
+### Intro to Programming Nanodegree
+
+<details>
+  <summary>View Details</summary>
+
+Master the skills required to become a Front-End Web Developer, and start
+building beautiful, responsive websites optimized for mobile and desktop
+performance.
+
+Learn the fundamentals of how the web works and gain a working knowledge of the
+three foundational languages that power each and every website: HTML, CSS and
+JavaScript.
+
+1. [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud304)
+1. [Intro to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+1. [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804)
+
+</details>
 
 ---
 
