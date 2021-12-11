@@ -122,7 +122,7 @@ support hundreds of thousands of users.
 #### Part 1: Developer Tools
 
 1. [Shell WorkShop](https://www.udacity.com/course/shell-workshop--ud206)
-1. Git & Github - [Part 1](https://www.udacity.com/course/how-to-use-git-and-github--ud775), [Part 2](https://www.udacity.com/course/github-collaboration--ud456)
+1. [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 1. [HTTP & Webservers](https://www.udacity.com/course/http-web-servers--ud303)
 1. [Networking For Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
