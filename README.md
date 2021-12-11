@@ -296,7 +296,7 @@ Android Developer.
 
 1. [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 1. [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836)
-1. [Android Basics: Multi-screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)
+1. [Android Basics: Multi-screen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839)
 1. [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
 1. [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)
 
