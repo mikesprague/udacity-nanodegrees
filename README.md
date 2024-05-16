@@ -398,3 +398,9 @@ show students how to transform ideas into market-ready products.
 1. [Get Your Startup Started](https://www.udacity.com/course/get-your-startup-started--ud806)
 
 </details>
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mikesprague/udacity-nanodegrees&type=Date)](https://star-history.com/#mikesprague/udacity-nanodegrees&Date)
